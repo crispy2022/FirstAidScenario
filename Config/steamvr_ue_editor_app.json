@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.erste_hilfe-18319896.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/3D/Freelancer/Njemci/Traffic project/ErsteHilfe/Erste_Hilfe_UE4/Erste_Hilfe/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Erste_Hilfe-18319896 [UE Editor]"
+				}
+			}
+		}
+	]
+}
