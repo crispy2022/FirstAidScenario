@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UVRFOculus",
+	"Description": "Oculus input for UVRF",
+	"Category": "Other",
+	"CreatedBy": "iNFINITE Production",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SupportedTargetPlatforms": [
+		"Win32",
+		"Win64",
+		"Android"
+	],
+	"Modules": [
+		{
+			"Name": "UVRFOculus",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "UVRF",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": true
+		}
+	]
+}
